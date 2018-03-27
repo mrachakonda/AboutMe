@@ -1,0 +1,12 @@
+Data Warehouse
+ETL - Design & Development
+  1. Developed ETL Solution using home grown tool
+        Extraction      - Perl and Shell Scripting
+        Transformation  - C++, PL/SQL
+        Loading         - SQL Loader, PL/SQL ( Bulk Loading , Cursors)
+  2. Developed ETL Solution using Talend ETL tool
+        Experience in using below Talend Component Family 
+        Database
+        Processing 
+        
+        
